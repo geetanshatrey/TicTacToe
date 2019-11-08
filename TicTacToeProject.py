@@ -1,3 +1,10 @@
+# Copyright 2019
+#
+# Author : Geetansh Atrey
+#
+# Python code to make a Tic Tac Toe a.k.a. X and 0s.
+#
+
 import os
 
 def drawGrid(gridValues):
